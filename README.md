@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas Eduardo dos Santos
+ <h1 style="color: purple";>Olá, eu sou o Lucas Eduardo dos Santos</h1>
 
 - 😄 Hobbies: Gosto de sair e visitar meus amigos nas horas vagas
 - 🌱 Formação: Colégio Sinodal Tiradentes
