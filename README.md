@@ -2,7 +2,7 @@
 
 - 😄 Hobbies: Gosto de sair e visitar meus amigos nas horas vagas
 - 🌱 Formação: Colégio Sinodal Tiradentes
-- 🕴️ Experiências profissionais: Atualmente trabalhando em uma empresa de soluções de pagamentos.
+- 🕴️ Experiências profissionais: Atualmente trabalhando em uma empresa de seguros como Trainee.
 - ✏️ Estudando : Desenvolvimento Web pela Growdev
 
 <a href="https://www.instagram.com/luca5_sant05/">
