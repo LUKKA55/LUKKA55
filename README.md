@@ -1,9 +1,8 @@
  <h1 style="color: purple";>Olá, eu sou o Lucas Eduardo dos Santos</h1>
 
 - 😄 Hobbies: Gosto de sair e visitar meus amigos nas horas vagas
-- 🌱 Formação: Colégio Sinodal Tiradentes
 - 🕴️ Experiências profissionais: Atualmente trabalhando em uma empresa de seguros como Trainee.
-- ✏️ Estudando : Desenvolvimento Web pela Growdev
+- ✏️ Estudando : Análise e Desenvolvimento de Sistemas na Unisinos
 
 <a href="https://www.instagram.com/luca5_sant05/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
