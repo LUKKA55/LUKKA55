@@ -4,6 +4,6 @@
 - 🕴️ Experiências profissionais: Atualmente trabalhando em uma empresa de seguros.
 - ✏️ Estudando : Análise e Desenvolvimento de Sistemas na Unisinos
 
-<a href="https://www.linkedin.com/in/lucas-dos-santos-6a6a01223/">
+<a href="https://www.linkedin.com/in/lucas-eduardo-dos-santos/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
